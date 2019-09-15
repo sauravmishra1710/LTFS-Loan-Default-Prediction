@@ -22,6 +22,10 @@ Doing so will ensure that clients capable of repayment are not rejected and impo
 	sample_submission.csv contains the submission format for the predictions against the test set.
 	A single csv needs to be submitted as a solution.
 	
+### Data Dictionary
+
+<img src="https://github.com/sauravmishra1710/LTFS-Loan-Default-Prediction/blob/master/Data_Dict.PNG">
+	
 # Evaluation Metric
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
 
